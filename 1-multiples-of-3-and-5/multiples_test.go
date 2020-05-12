@@ -24,7 +24,7 @@ func TestFindMultiples(t *testing.T) {
 		{
 			name: "Test for n = 13",
 			args: args{n: 1000},
-			want: 1,
+			want: 233168,
 		},
 	}
 	for _, tt := range tests {
