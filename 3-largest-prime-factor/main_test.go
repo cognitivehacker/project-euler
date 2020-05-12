@@ -1,4 +1,4 @@
-package largestprime
+package main
 
 import (
 	"testing"
